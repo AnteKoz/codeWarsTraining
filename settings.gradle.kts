@@ -1,4 +1,5 @@
 
 rootProject.name = "codeWarsTrainings"
-include("src:main:Training")
-findProject(":src:main:Training")?.name = "Training"
+include("src:training-findHighestAge")
+include("src:training-romanNumeralsEncoder")
+findProject(":src:training-romanNumeralsEncoder")?.name = "training-romanNumeralsEncoder"
