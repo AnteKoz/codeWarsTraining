@@ -6,3 +6,4 @@ findProject("training-romanNumeralsEncoder")?.name = "training-romanNumeralsEnco
 include("training-disemovelTrolls")
 findProject("training-disemovelTrolls")?.name = "training-disemovelTrolls"
 include("training-predictYourAge")
+include("training-reserveLetters")
